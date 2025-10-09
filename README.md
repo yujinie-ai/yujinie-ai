@@ -37,3 +37,7 @@
 | 영어 | TOEIC Speaking | 180 | 2025-08-31 |
 | 영어 | TOEIC | 930 | 2024-11-24 |
 
+## 📧 Contact
+
+[![Gmail](https://img.shields.io/badge/jiniek0312@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jiniek0312@gmail.com)
+<br> jiniek0312@gmail.com  
