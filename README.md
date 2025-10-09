@@ -13,10 +13,10 @@
 
 ## 📋 Projects 
 
-| 프로젝트명 | 조직/소속 | 역할 | 기간 | 링크 |
+| 프로젝트명 | 소속 | 역할 | 기간 | 링크 |
 |:---|:---:|:---:|:---:|:---:|
-| 헬스케어 스타트업 <br>투자 가능성 평가 에이전트 (RAG) | SKALA | 백엔드 개발<br>(Competitor agent)| 2025.09 ~ 2025.10 | https://github.com/kdy2072/skala_rag_project |
-| 첫 HTMl 프로필 페이지 | 개인 | 프론트엔드 | 2025.08 ~ 2025.08 | https://github.com/yujinie-ai/profile_real|
+| 헬스케어 스타트업 <br>투자 가능성 평가 에이전트 (RAG) | SKALA | 백엔드 개발<br>(Competitor agent)| 2025.09 ~ 2025.10 | [GitHub](https://github.com/kdy2072/skala_rag_project) |
+| 첫 HTMl 프로필 페이지 | 개인 | 프론트엔드 | 2025.08 ~ 2025.08 | [GitHub](https://github.com/yujinie-ai/profile_real)|
 
 ## 🛠 Development Stack
 
