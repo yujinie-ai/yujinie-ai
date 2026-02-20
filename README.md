@@ -42,4 +42,3 @@
 ## 📧 Contact
 
 [![Gmail](https://img.shields.io/badge/jiniek0312@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jiniek0312@gmail.com)
-<br> jiniek0312@gmail.com  
